@@ -1,0 +1,11 @@
+{
+  "simonstalenhag-se-entrypoint": [
+    "https://raw.githubusercontent.com/a-andreyev/simonstalenhag-se-metadata/main/data/em.json",
+    "https://raw.githubusercontent.com/a-andreyev/simonstalenhag-se-metadata/main/data/labyrinth.json",
+    "https://raw.githubusercontent.com/a-andreyev/simonstalenhag-se-metadata/main/data/es.json",
+    "https://raw.githubusercontent.com/a-andreyev/simonstalenhag-se-metadata/main/data/tftf.json",
+    "https://raw.githubusercontent.com/a-andreyev/simonstalenhag-se-metadata/main/data/tftl.json",
+    "https://raw.githubusercontent.com/a-andreyev/simonstalenhag-se-metadata/main/data/paleo.json",
+    "https://raw.githubusercontent.com/a-andreyev/simonstalenhag-se-metadata/main/data/other.json"
+  ]
+}

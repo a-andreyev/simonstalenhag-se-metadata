@@ -7,9 +7,15 @@
       "section": "EUROPA MEKANO"
     },
     {
-      "name": "ark_euromek",
-      "imagebig": "http://simonstalenhag.se/bilderbig/ark_euromek_big.jpg",
-      "image": "http://simonstalenhag.se/bilder/ark_euromek.jpg",
+      "name": "ark_tanto",
+      "imagebig": "http://simonstalenhag.se/bilderbig/ark_tanto_big.jpg",
+      "image": "http://simonstalenhag.se/bilder/ark_tanto.jpg",
+      "section": "EUROPA MEKANO"
+    },
+    {
+      "name": "ark_saby",
+      "imagebig": "http://simonstalenhag.se/bilderbig/ark_saby_big.jpg",
+      "image": "http://simonstalenhag.se/bilder/ark_saby.jpg",
       "section": "EUROPA MEKANO"
     },
     {
@@ -88,6 +94,12 @@
       "name": "ark_fb_07",
       "imagebig": "http://simonstalenhag.se/bilderbig/ark_fb_07_big.jpg",
       "image": "http://simonstalenhag.se/bilder/ark_fb_07.jpg",
+      "section": "EUROPA MEKANO"
+    },
+    {
+      "name": "ark_euromek",
+      "imagebig": "http://simonstalenhag.se/bilderbig/ark_euromek_big.jpg",
+      "image": "http://simonstalenhag.se/bilder/ark_euromek.jpg",
       "section": "EUROPA MEKANO"
     },
     {

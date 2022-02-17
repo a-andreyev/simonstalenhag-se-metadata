@@ -7,21 +7,33 @@
       "section": "EUROPA MEKANO"
     },
     {
+      "name": "ark_search02",
+      "imagebig": "http://simonstalenhag.se/bilderbig/ark_search02_big.jpg",
+      "image": "http://simonstalenhag.se/bilder/ark_search02.jpg",
+      "section": "EUROPA MEKANO"
+    },
+    {
+      "name": "ark_search03",
+      "imagebig": "http://simonstalenhag.se/bilderbig/ark_search03_big.jpg",
+      "image": "http://simonstalenhag.se/bilder/ark_search03.jpg",
+      "section": "EUROPA MEKANO"
+    },
+    {
+      "name": "ark_search04",
+      "imagebig": "http://simonstalenhag.se/bilderbig/ark_search04_big.jpg",
+      "image": "http://simonstalenhag.se/bilder/ark_search04.jpg",
+      "section": "EUROPA MEKANO"
+    },
+    {
       "name": "ark_masma",
       "imagebig": "http://simonstalenhag.se/bilderbig/ark_masma_big.jpg",
       "image": "http://simonstalenhag.se/bilder/ark_masma.jpg",
       "section": "EUROPA MEKANO"
     },
     {
-      "name": "ark_tanto",
-      "imagebig": "http://simonstalenhag.se/bilderbig/ark_tanto_big.jpg",
-      "image": "http://simonstalenhag.se/bilder/ark_tanto.jpg",
-      "section": "EUROPA MEKANO"
-    },
-    {
-      "name": "ark_saby",
-      "imagebig": "http://simonstalenhag.se/bilderbig/ark_saby_big.jpg",
-      "image": "http://simonstalenhag.se/bilder/ark_saby.jpg",
+      "name": "ark_pool",
+      "imagebig": "http://simonstalenhag.se/bilderbig/ark_pool_big.jpg",
+      "image": "http://simonstalenhag.se/bilder/ark_pool.jpg",
       "section": "EUROPA MEKANO"
     },
     {
@@ -130,6 +142,12 @@
       "name": "ark_tess",
       "imagebig": "http://simonstalenhag.se/bilderbig/ark_tess_big.jpg",
       "image": "http://simonstalenhag.se/bilder/ark_tess.jpg",
+      "section": "EUROPA MEKANO"
+    },
+    {
+      "name": "ark_tanto",
+      "imagebig": "http://simonstalenhag.se/bilderbig/ark_tanto_big.jpg",
+      "image": "http://simonstalenhag.se/bilder/ark_tanto.jpg",
       "section": "EUROPA MEKANO"
     },
     {

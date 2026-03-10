@@ -43,7 +43,6 @@ function formJSON(titles, section, keyword1, keyword2) {
 // Site configuration
 var sites = [
     { url: "http://simonstalenhag.se/svema.html", section: "SWEDISH MACHINES (2024)", output: "data/svema.json", keyword1: "4k", keyword2: "bilder" },
-    { url: "http://simonstalenhag.se/", section: "EUROPA MEKANO", output: "data/em.json", keyword1: "bilderbig", keyword2: "bilder" },
     { url: "http://simonstalenhag.se/labyrinth.html", section: "THE LABYRINTH (2020)", output: "data/labyrinth.json", keyword1: "bilderbig", keyword2: "bilder" },
     { url: "http://simonstalenhag.se/es.html", section: "THE ELECTRIC STATE (2017)", output: "data/es.json", keyword1: "bilderbig", keyword2: "bilder" },
     { url: "http://simonstalenhag.se/tftf.html", section: "THINGS FROM THE FLOOD (2016)", output: "data/tftf.json", keyword1: "tftfbig", keyword2: "tftf" },

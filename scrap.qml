@@ -23,7 +23,9 @@ Window {
         doc.onreadystatechange = function() {
             if (doc.readyState == XMLHttpRequest.DONE) {
                 var str = doc.responseText;
+                console.log("Response length: " + str.length);
                 var titles = Parser.parseHtml(str, site.keyword1);
+                console.log("Titles found: " + titles.length);
                 var x = Parser.formJSON(titles, site.section, site.keyword1, site.keyword2);
                 saveFile(Qt.resolvedUrl("./") + site.output, JSON.stringify(x, null, 2) + "\n");
                 root.pendingRequests--;

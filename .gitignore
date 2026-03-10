@@ -60,3 +60,6 @@ compile_commands.json
 # qbs
 
 default
+
+# vscode
+.vscode
